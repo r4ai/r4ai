@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/r4ai/r4ai/main/profile-summary-card-output/prussian/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/r4ai/r4ai/main/profile-summary-card-output/prussian/4-productive-time.svg)
-```
-
-    
