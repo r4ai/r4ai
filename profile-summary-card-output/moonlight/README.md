@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/r4ai/r4ai/main/profile-summary-card-output/moonlight/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/r4ai/r4ai/main/profile-summary-card-output/moonlight/4-productive-time.svg)
+```
+
+    
